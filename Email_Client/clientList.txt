@@ -1,0 +1,9 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/08/14
+Office_friend: kamal,thilaknakumaratunga@gmail.com,clerk,2000/12/12
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend: kamal,thilaknakumaratunga@gmail.com,clerk,2000/09/18
+Office_friend: kamal,thilaknakumaratunga@gmail.com,clerk,2000/09/18
+Office_friend: kamal,thilaknakumaratunga@gmail.com,clerk,2000/12/12
